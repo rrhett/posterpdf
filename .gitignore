@@ -1,3 +1,6 @@
 # Ignore PDFs, as these are probably in here to be parsed and whatnot, but
 # shouldn't be checked in.
 *pdf
+
+# Ignore pycache directory.
+__pycache__/
