@@ -9,7 +9,7 @@ You must have `pdftk` and `mutool` installed.
 If you have the file `LandscapeFile.pdf` with 5 pages, starting at page 2 (e.g. the first page is a cover), and the last page is a single page, so already portrait:
 
 ```
-python3 poster.py -i LandscapeFile.pdf -o PortraitFile.pdf -n 20 -s 2 -e
+python3 poster.py -i LandscapeFile.pdf -o PortraitFile.pdf -n 4 -s 2 -e
 ```
 
 ## Examples
